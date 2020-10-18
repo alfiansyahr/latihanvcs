@@ -13,7 +13,12 @@ Kelas: TI.20.B2
 ![git pict](gambar/git-download.jpg)
 
 * langkah kedua cek version di Git Bash
+
+![git pict](gambar/git-versi)
+
 * langkah ketiga beri nama user GIT
+
+![git pict]()
 * langkah keempat buatlah akun GIT HUB di github.com
 * langkah kelima buat repository di github.com
 * langkah keenam buka gitbash di folder 
