@@ -9,6 +9,9 @@ Kelas: TI.20.B2
 
 ## langkah langkah pembuatan vcs
 * langkah pertama silahkan download file git
+
+![git pict](gambar/git download)
+
 * langkah kedua cek version di Git Bash
 * langkah ketiga beri nama user GIT
 * langkah keempat buatlah akun GIT HUB di github.com
