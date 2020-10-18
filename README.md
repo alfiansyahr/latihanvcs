@@ -14,7 +14,7 @@ Kelas: TI.20.B2
 
 * langkah kedua cek version di Git Bash
 
-![git pict](gambar/git-versi)
+![git pict](gambar/git-versi.jpg)
 
 * langkah ketiga beri nama user GIT
 
