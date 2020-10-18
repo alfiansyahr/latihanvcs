@@ -18,7 +18,7 @@ Kelas: TI.20.B2
 
 * langkah ketiga beri nama user GIT
 
-![git pict]()
+
 * langkah keempat buatlah akun GIT HUB di github.com
 * langkah kelima buat repository di github.com
 * langkah keenam buka gitbash di folder 
