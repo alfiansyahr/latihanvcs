@@ -28,7 +28,10 @@ Kelas: TI.20.B2
 
 ![git pict](gambar/new-repo.jpg)
 
-* langkah keenam buka gitbash di folder 
+* langkah keenam buka gitbash di folder
+
+![git pict](gambar/gitbashhere.jpg)
+
 * langkah ketujuh git clone di folder
 * langkah kedelapan edit file README.md
 * langkah kesembilan Ketik git add 
