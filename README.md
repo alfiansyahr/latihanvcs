@@ -37,6 +37,9 @@ Kelas: TI.20.B2
 ![git pict](gambar/git-clone.jpg)
 
 * langkah kedelapan edit file README.md
+
+![git picture](gambar/edit-file.jpg)
+
 * langkah kesembilan Ketik git add 
 * langkah kesepuluh ketik git commit
 * Langkah kesebelas ketik git push
