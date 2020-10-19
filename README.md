@@ -42,7 +42,7 @@ Kelas: TI.20.B2
 
 * langkah kesembilan Ketik git add 
 
-![git picture](gambar/git-add.png)
+![git picture](gambar/git-add.jpg)
 
 * langkah kesepuluh ketik git commit
 * Langkah kesebelas ketik git push
