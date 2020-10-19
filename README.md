@@ -45,5 +45,8 @@ Kelas: TI.20.B2
 ![git picture](gambar/git-add.jpg)
 
 * langkah kesepuluh ketik git commit
+
+![git picture](gambar/git-commit.jpg)
+
 * Langkah kesebelas ketik git push
 * langkah keduabelas buka github.com lalu refresh
