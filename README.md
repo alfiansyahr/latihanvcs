@@ -21,6 +21,9 @@ Kelas: TI.20.B2
 ![git pict](gambar/git-user.jpg)
 
 * langkah keempat buatlah akun GIT HUB di github.com
+
+![git pict](gambar/buat-akungit.jpg)
+
 * langkah kelima buat repository di github.com
 * langkah keenam buka gitbash di folder 
 * langkah ketujuh git clone di folder
