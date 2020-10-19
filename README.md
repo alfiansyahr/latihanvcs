@@ -30,7 +30,7 @@ Kelas: TI.20.B2
 
 * langkah keenam buka gitbash di folder
 
-![git pict](gambar/gitbashhere.jpg)
+![git pict](gambar/gitubashhere.jpg)
 
 * langkah ketujuh git clone di folder
 * langkah kedelapan edit file README.md
